@@ -11,6 +11,6 @@ This repository contains the code example and documentation related to the Relia
 NEOM autonomous vehicles use multiple sensors (LIDAR, radar, camera) and fallback mechanisms to ensure continuous operation even in case of partial system failures.
 
 ## Author
-Bassam Mansour Al-Sulami  
-University of Jeddah – Software Engineering  
+Mohammed Khalis Sonbul  
+University of KAU – Information Technology   
 Assignment: Reliability Strategy (AMIR Framework)
